@@ -49,6 +49,8 @@ NSMBe (Program Binary): https://nsmbhd.net/download/
 
 TheGameratorT's NSMBe Fork: https://github.com/TheGameratorT/NSMB-Editor
 
+Szymbar's NSMBe Fork: https://github.com/szymbar15/NSMB-Editor
+
 Nitro Studio 2: https://github.com/Gota7/NitroStudio2
 
 Fireflower (ASM Patching Toolchain): https://github.com/Overblade/Fireflower
@@ -85,6 +87,14 @@ NSBMD NSBTX Converter: https://github.com/TheGameratorT/NSBMD-NSBTX_Converter
 
 Nitro Model Converter GUI: https://github.com/TheGameratorT/NitroModel_ConverterGUI
 
+NitroPaint: https://github.com/Garhoogin/NitroPaint
+
+Nitro G3D Tools: https://github.com/Ermelber/nitro-g3d-tools
+
+VGMTrans: https://github.com/vgmtrans/vgmtrans/releases
+
+Mario Kart Toolbox: https://cdn.discordapp.com/attachments/398883899582840832/671447695529082911/MKTB_1670.7z
+
 Jay-San's Pokemon DS Rom Editing Tutorials Programs Pack: http://www.mediafire.com/file/0j68s3a3xgnn31y/DS_Video_tools.zip/file
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
@@ -116,6 +126,8 @@ Overblade's ASM Hacking Tutorial: https://overblade.github.io/HackingTutorial/
 Pokemon DS Known Sprite Locations: https://docs.google.com/document/d/19KqqKlrEAazRrwHv_c5IIAwGNp4KTtKW5BvSXdDzDKA/edit?usp=sharing
 # Wikis:
 SM64DS Romhacking/Machinima Wiki: https://sm64dsromhacking.miraheze.org/wiki/Main_Page
+
+DSHack2 (MKDS Modding Wiki): https://garhoogin.com/mkds/dswiki/
 # Tutorials:
 Gota7's SM64DS Romhacking Tutorials: https://www.youtube.com/playlist?list=PLqLbHe4NpIb5T7evcOl9dll23HC8-i9QT
 
@@ -124,6 +136,8 @@ Pokemon DS Rom Editing Tutorials: https://www.youtube.com/watch?v=lakp5ZRN7rE&li
 DS Romhacking/Modding Tutorials: https://www.youtube.com/watch?v=2cYzCjjo1BE&list=PLq5z5T4eGMsVXrMiDMJ-96B4TRAp4YWLn
 
 How To Pack A NARC: https://docs.google.com/document/d/1nyuRlun9Gm_5lWodBVLZgOwTgU26k8oyfscnPZZSfV8/edit?usp=sharing
+
+MKDS Object List: https://docs.google.com/document/d/1dBiPlhop77EiAmR1xHI1jWzz1vDQTE_Ul7ERTZFBi_A/edit?usp=drivesdk
 # Libraries:
 NDSpy: https://github.com/RoadrunnerWMC/ndspy
 # Other:
@@ -142,3 +156,5 @@ Rocoloco's NWAV Collection: https://github.com/rocoloco321/roco-nwav-collection
 NSMB ENPG Paint.NET Plugin: https://github.com/TheGameratorT/pdn-enpg
 
 SM64DS ASM/DL Patch: http://www.mediafire.com/file/5fyes6urszhatlh/ASM+Patches.rar/file
+
+NNS Blender Plugin: https://github.com/jellees/nns-blender-plugin
