@@ -8,6 +8,8 @@ SM64DS ASM Resource - Customizing The Behavior Of Players/Objects/Levels: http:/
 SM64DS MOM: https://github.com/Gota7/MoreObjectsMod
 
 Misc. SM64DS ASM Patches: https://github.com/pants64DS/Misc-SM64DS-Patches
+
+NewerSMBDS: https://github.com/Newer-Team/NewerSMBDS
 # Discord Servers:
 SM64DS Romhacking Server: http://discord.gg/PhpA9Wt
 
@@ -60,6 +62,8 @@ Tinke-Ultimate: https://github.com/TheBestNSMB/tinke-ultimate
 DSVania Editor: https://github.com/LagoLunatic/DSVEdit
 
 DSVania Randomizer: https://github.com/LagoLunatic/dsvrandom
+
+Newt GUI: https://github.com/Newer-Team/Newt-GUI
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
 
@@ -80,9 +84,15 @@ GTPD ASM Reference: https://github.com/Ed-1T/GTPD-ASM-Reference
 DSVania C Hacking Reference: https://github.com/LagoLunatic/DSVania_C_Hacking
 
 List Of DS Games With Editable Formats: https://docs.google.com/spreadsheets/d/1uAjROlZT8KDJCjearrJcUXkzLa5nz2sIMhg5vIFe0JU/edit#gid=0
+
+Marker Man Adventures Documentation: https://docs.google.com/document/d/1_PeHMfVkhVIx36_NaUhR5dpXOjMwm4_q4x3giCHiftQ/edit?usp=sharing
 # Wikis:
 SM64DS Romhacking/Machinima Wiki: https://sm64dsromhacking.miraheze.org/wiki/Main_Page
 # Tutorials:
 Gota7's SM64DS Romhacking Tutorials: https://www.youtube.com/playlist?list=PLqLbHe4NpIb5T7evcOl9dll23HC8-i9QT
+# Libraries:
+NDSpy: https://github.com/RoadrunnerWMC/ndspy
 # Other:
-https://github.com/pants64DS/ToxInput
+ToxInput: https://github.com/pants64DS/ToxInput
+
+The SM64DS Machinima Pack: https://drive.google.com/drive/folders/1U1I8VkeiIYA_7e9CZpNNf9VL06L9znGn?usp=sharing
