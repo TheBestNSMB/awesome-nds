@@ -39,7 +39,9 @@ SM64DSe: https://github.com/Arisotura/SM64DSe
 
 SM64DSe-Ultimate: https://github.com/Gota7/SM64DSe-Ultimate
 
-NSMBe: https://github.com/Dirbaio/NSMB-Editor
+NSMBe (Source): https://github.com/Dirbaio/NSMB-Editor
+
+NSMBe (Program Binary): https://nsmbhd.net/download/
 
 TheGameratorT's NSMBe Fork: https://github.com/TheGameratorT/NSMB-Editor
 
@@ -64,6 +66,10 @@ DSVania Editor: https://github.com/LagoLunatic/DSVEdit
 DSVania Randomizer: https://github.com/LagoLunatic/dsvrandom
 
 Newt GUI: https://github.com/Newer-Team/Newt-GUI
+
+Armips: https://github.com/Kingcom/armips
+
+SimpleArmipsGUI: https://github.com/DavidSM64/SimpleArmipsGui
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
 
@@ -96,3 +102,9 @@ NDSpy: https://github.com/RoadrunnerWMC/ndspy
 ToxInput: https://github.com/pants64DS/ToxInput
 
 The SM64DS Machinima Pack: https://drive.google.com/drive/folders/1U1I8VkeiIYA_7e9CZpNNf9VL06L9znGn?usp=sharing
+
+NDS Rom Icons Pack: https://gbatemp.net/threads/nintendo-ds-rom-icons-pack.109371/
+
+SM64DS Textures: http://www.mediafire.com/file/wcdgxhda7gzl7s2/SM64DS+Textures.zip
+
+SM64DS Blender Plugin: https://github.com/josh65536/blender-sm256e
