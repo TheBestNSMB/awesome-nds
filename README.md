@@ -84,6 +84,8 @@ SoundMakerProjectAmplifier: https://github.com/TheGameratorT/SoundMakerProjectAm
 NSBMD NSBTX Converter: https://github.com/TheGameratorT/NSBMD-NSBTX_Converter
 
 Nitro Model Converter GUI: https://github.com/TheGameratorT/NitroModel_ConverterGUI
+
+Jay-San's Pokemon DS Rom Editing Tutorials Programs Pack: http://www.mediafire.com/file/0j68s3a3xgnn31y/DS_Video_tools.zip/file
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
 
@@ -110,6 +112,8 @@ Marker Man Adventures Documentation: https://docs.google.com/document/d/1_PeHMfV
 SM64DS CLPS Documentation: https://docs.google.com/document/d/11tHJ77km4EPITucU9RMdhW5ImPEvCyxPxUAbxqzm6Ks/edit
 
 Overblade's ASM Hacking Tutorial: https://overblade.github.io/HackingTutorial/
+
+Pokemon DS Known Sprite Locations: https://docs.google.com/document/d/19KqqKlrEAazRrwHv_c5IIAwGNp4KTtKW5BvSXdDzDKA/edit?usp=sharing
 # Wikis:
 SM64DS Romhacking/Machinima Wiki: https://sm64dsromhacking.miraheze.org/wiki/Main_Page
 # Tutorials:
@@ -118,6 +122,8 @@ Gota7's SM64DS Romhacking Tutorials: https://www.youtube.com/playlist?list=PLqLb
 Pokemon DS Rom Editing Tutorials: https://www.youtube.com/watch?v=lakp5ZRN7rE&list=PLKTW2ZuQjbEEVYHhxRZF9N8v_9AUneJq1
 
 DS Romhacking/Modding Tutorials: https://www.youtube.com/watch?v=2cYzCjjo1BE&list=PLq5z5T4eGMsVXrMiDMJ-96B4TRAp4YWLn
+
+How To Pack A NARC: https://docs.google.com/document/d/1nyuRlun9Gm_5lWodBVLZgOwTgU26k8oyfscnPZZSfV8/edit?usp=sharing
 # Libraries:
 NDSpy: https://github.com/RoadrunnerWMC/ndspy
 # Other:
