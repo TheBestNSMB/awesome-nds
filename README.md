@@ -14,6 +14,8 @@ NewerSMBDS: https://github.com/Newer-Team/NewerSMBDS
 NitroWAV Player: https://github.com/TheGameratorT/NitroWAV-Player
 
 NSMB Utils: https://github.com/ItzTacosOfficial/NSMB-Utils
+
+Super Mario Sunshine DS Source: https://github.com/Fiachra1993/SuperMarioSunshine64DS
 # Discord Servers:
 SM64DS Romhacking Server: http://discord.gg/PhpA9Wt
 
