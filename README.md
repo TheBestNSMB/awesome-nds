@@ -1,5 +1,3 @@
-# awesome-nds
-A (WIP) collection of resources, websites, code, programs and documentation for DS game modding/romhacking.
 # Forums:
 The New Super Mario Bros. Hacking Domain: https://nsmbhd.net
 Kuribo64 (SM64DS Romhacking Forum): http://kuribo64.net/board/
