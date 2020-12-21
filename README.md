@@ -108,10 +108,16 @@ List Of DS Games With Editable Formats: https://docs.google.com/spreadsheets/d/1
 Marker Man Adventures Documentation: https://docs.google.com/document/d/1_PeHMfVkhVIx36_NaUhR5dpXOjMwm4_q4x3giCHiftQ/edit?usp=sharing
 
 SM64DS CLPS Documentation: https://docs.google.com/document/d/11tHJ77km4EPITucU9RMdhW5ImPEvCyxPxUAbxqzm6Ks/edit
+
+Overblade's ASM Hacking Tutorial: https://overblade.github.io/HackingTutorial/
 # Wikis:
 SM64DS Romhacking/Machinima Wiki: https://sm64dsromhacking.miraheze.org/wiki/Main_Page
 # Tutorials:
 Gota7's SM64DS Romhacking Tutorials: https://www.youtube.com/playlist?list=PLqLbHe4NpIb5T7evcOl9dll23HC8-i9QT
+
+Pokemon DS Rom Editing Tutorials: https://www.youtube.com/watch?v=lakp5ZRN7rE&list=PLKTW2ZuQjbEEVYHhxRZF9N8v_9AUneJq1
+
+DS Romhacking/Modding Tutorials: https://www.youtube.com/watch?v=2cYzCjjo1BE&list=PLq5z5T4eGMsVXrMiDMJ-96B4TRAp4YWLn
 # Libraries:
 NDSpy: https://github.com/RoadrunnerWMC/ndspy
 # Other:
