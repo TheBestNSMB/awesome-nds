@@ -106,6 +106,8 @@ DSVania C Hacking Reference: https://github.com/LagoLunatic/DSVania_C_Hacking
 List Of DS Games With Editable Formats: https://docs.google.com/spreadsheets/d/1uAjROlZT8KDJCjearrJcUXkzLa5nz2sIMhg5vIFe0JU/edit#gid=0
 
 Marker Man Adventures Documentation: https://docs.google.com/document/d/1_PeHMfVkhVIx36_NaUhR5dpXOjMwm4_q4x3giCHiftQ/edit?usp=sharing
+
+SM64DS CLPS Documentation: https://docs.google.com/document/d/11tHJ77km4EPITucU9RMdhW5ImPEvCyxPxUAbxqzm6Ks/edit
 # Wikis:
 SM64DS Romhacking/Machinima Wiki: https://sm64dsromhacking.miraheze.org/wiki/Main_Page
 # Tutorials:
@@ -126,3 +128,5 @@ SM64DS Blender Plugin: https://github.com/josh65536/blender-sm256e
 Rocoloco's NWAV Collection: https://github.com/rocoloco321/roco-nwav-collection
 
 NSMB ENPG Paint.NET Plugin: https://github.com/TheGameratorT/pdn-enpg
+
+SM64DS ASM/DL Patch: http://www.mediafire.com/file/5fyes6urszhatlh/ASM+Patches.rar/file
