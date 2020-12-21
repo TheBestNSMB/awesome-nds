@@ -12,6 +12,8 @@ Misc. SM64DS ASM Patches: https://github.com/pants64DS/Misc-SM64DS-Patches
 NewerSMBDS: https://github.com/Newer-Team/NewerSMBDS
 
 NitroWAV Player: https://github.com/TheGameratorT/NitroWAV-Player
+
+NSMB Utils: https://github.com/ItzTacosOfficial/NSMB-Utils
 # Discord Servers:
 SM64DS Romhacking Server: http://discord.gg/PhpA9Wt
 
@@ -123,4 +125,4 @@ SM64DS Blender Plugin: https://github.com/josh65536/blender-sm256e
 
 Rocoloco's NWAV Collection: https://github.com/rocoloco321/roco-nwav-collection
 
-ENPG Paint.NET Plugin: https://github.com/TheGameratorT/pdn-enpg
+NSMB ENPG Paint.NET Plugin: https://github.com/TheGameratorT/pdn-enpg
