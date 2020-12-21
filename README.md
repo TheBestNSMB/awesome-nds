@@ -16,10 +16,22 @@ Pokemon DS Romhacking Server: https://discord.gg/cTKQq5Y
 MKDS Modding Server: https://discordapp.com/invite/CAktUYP
 
 NSMB Central (NSMB Romhacking Server): https://discord.gg/x7gr3M9
+
+NDS(i)Brew Scene: https://discord.gg/Ymj3Kex
+
+/r/ndshacks Discord Server: https://discord.gg/JtnxnDD
+
+DS(i) Mode Hacking: https://discord.gg/yD3spjv
+
+M&M's Games Hacking Server (Includes many DS games so it's included here): https://discord.gg/CcBmxQP
+
+Blue Shell (NSMB Level Editor) Server: https://discord.gg/YEbt58T6M7
 # Emulators:
 DeSmuME: http://desmume.org
 
 NO$GBA: https://www.nogba.com
+
+MelonDS: http://melonds.kuribo64.net
 # Romhacking Programs:
 SM64DSe: https://github.com/Arisotura/SM64DSe
 
@@ -38,6 +50,16 @@ NDS Decomp Project Maker: https://github.com/Ed-1T/NDS-Decompilation-Project-Mak
 Ghidra Symbols Exporter: https://github.com/Ed-1T/Ghidra-Symbols-Exporter
 
 SPA Editor: https://github.com/Ed-1T/SimpleParticleArchive-Editor
+
+NDS File Browser: https://github.com/bbomb64/ndsfilebrowser
+
+Tinke: https://github.com/pleonex/tinke
+
+Tinke-Ultimate: https://github.com/TheBestNSMB/tinke-ultimate
+
+DSVania Editor: https://github.com/LagoLunatic/DSVEdit
+
+DSVania Randomizer: https://github.com/LagoLunatic/dsvrandom
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
 
@@ -54,6 +76,8 @@ NSMB ASM Reference: https://github.com/Overblade/NSMB-ASMReference
 999 ASM Reference: https://github.com/Ed-1T/999-ASM-Reference
 
 GTPD ASM Reference: https://github.com/Ed-1T/GTPD-ASM-Reference
+
+DSVania C Hacking Reference: https://github.com/LagoLunatic/DSVania_C_Hacking
 
 List Of DS Games With Editable Formats: https://docs.google.com/spreadsheets/d/1uAjROlZT8KDJCjearrJcUXkzLa5nz2sIMhg5vIFe0JU/edit#gid=0
 # Wikis:
