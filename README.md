@@ -10,6 +10,8 @@ SM64DS MOM: https://github.com/Gota7/MoreObjectsMod
 Misc. SM64DS ASM Patches: https://github.com/pants64DS/Misc-SM64DS-Patches
 
 NewerSMBDS: https://github.com/Newer-Team/NewerSMBDS
+
+NitroWAV Player: https://github.com/TheGameratorT/NitroWAV-Player
 # Discord Servers:
 SM64DS Romhacking Server: http://discord.gg/PhpA9Wt
 
@@ -70,6 +72,16 @@ Newt GUI: https://github.com/Newer-Team/Newt-GUI
 Armips: https://github.com/Kingcom/armips
 
 SimpleArmipsGUI: https://github.com/DavidSM64/SimpleArmipsGui
+
+NitroWAV Tool: https://github.com/TheGameratorT/NitroWAV-Tool
+
+NDS Banner Editor: https://github.com/TheGameratorT/NDS_Banner_Editor
+
+SoundMakerProjectAmplifier: https://github.com/TheGameratorT/SoundMakerProjectAmplifier
+
+NSBMD NSBTX Converter: https://github.com/TheGameratorT/NSBMD-NSBTX_Converter
+
+Nitro Model Converter GUI: https://github.com/TheGameratorT/NitroModel_ConverterGUI
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
 
@@ -108,3 +120,7 @@ NDS Rom Icons Pack: https://gbatemp.net/threads/nintendo-ds-rom-icons-pack.10937
 SM64DS Textures: http://www.mediafire.com/file/wcdgxhda7gzl7s2/SM64DS+Textures.zip
 
 SM64DS Blender Plugin: https://github.com/josh65536/blender-sm256e
+
+Rocoloco's NWAV Collection: https://github.com/rocoloco321/roco-nwav-collection
+
+ENPG Paint.NET Plugin: https://github.com/TheGameratorT/pdn-enpg
