@@ -105,6 +105,16 @@ Apicula: https://github.com/scurest/apicula
 
 Kiwi.ds: https://sites.google.com/site/kiwids/
 
+Xdelta: https://github.com/dan0v/xdelta3-cross-gui
+
+NerdFontTerminatoR: https://github.com/pleonex/NerdFontTerminatoR
+
+NinoImager: https://github.com/pleonex/ninoimager
+
+NitroDebugger: https://github.com/pleonex/NitroDebugger
+
+NitroFilcher: https://github.com/pleonex/NitroFilcher
+
 Jay-San's Pokemon DS Rom Editing Tutorials Programs Pack: http://www.mediafire.com/file/0j68s3a3xgnn31y/DS_Video_tools.zip/file
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
