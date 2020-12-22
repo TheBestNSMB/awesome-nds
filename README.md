@@ -34,6 +34,8 @@ DS(i) Mode Hacking: https://discord.gg/yD3spjv
 M&M's Games Hacking Server (Includes many DS games so it's included here): https://discord.gg/CcBmxQP
 
 Blue Shell (NSMB Level Editor) Server: https://discord.gg/YEbt58T6M7
+
+Kirby Super Star Ultra Hacking Server: https://discord.gg/Sgyn4UANK6
 # Emulators:
 DeSmuME: http://desmume.org
 
@@ -96,6 +98,12 @@ Nitro G3D Tools: https://github.com/Ermelber/nitro-g3d-tools
 VGMTrans: https://github.com/vgmtrans/vgmtrans/releases
 
 Mario Kart Toolbox: https://cdn.discordapp.com/attachments/398883899582840832/671447695529082911/MKTB_1670.7z
+
+MApRX: https://github.com/wwylele/MApRX
+
+Apicula: https://github.com/scurest/apicula
+
+Kiwi.ds: https://sites.google.com/site/kiwids/
 
 Jay-San's Pokemon DS Rom Editing Tutorials Programs Pack: http://www.mediafire.com/file/0j68s3a3xgnn31y/DS_Video_tools.zip/file
 # Documentation/References:
