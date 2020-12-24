@@ -144,6 +144,8 @@ SM64DS CLPS Documentation: https://docs.google.com/document/d/11tHJ77km4EPITucU9
 Overblade's ASM Hacking Tutorial: https://overblade.github.io/HackingTutorial/
 
 Pokemon DS Known Sprite Locations: https://docs.google.com/document/d/19KqqKlrEAazRrwHv_c5IIAwGNp4KTtKW5BvSXdDzDKA/edit?usp=sharing
+
+Kuribo64 SM64DS Hacking Getting Started Links Thread: http://kuribo64.net/board/thread.php?id=2319
 # Wikis:
 SM64DS Romhacking/Machinima Wiki: https://sm64dsromhacking.miraheze.org/wiki/Main_Page
 
