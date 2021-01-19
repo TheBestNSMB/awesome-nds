@@ -113,11 +113,41 @@ NerdFontTerminatoR: https://github.com/pleonex/NerdFontTerminatoR
 
 NinoImager: https://github.com/pleonex/ninoimager
 
+NinoTrade: https://github.com/pleonex/NinoTrade
+
+NinoDrive: https://github.com/pleonex/NinoDrive
+
 NitroDebugger: https://github.com/pleonex/NitroDebugger
 
 NitroFilcher: https://github.com/pleonex/NitroFilcher
 
 SADLpy: https://github.com/C3RV1/SADLpy
+
+Pokemon Conquest Translation Tools: https://github.com/pleonex/PokemonConquest
+
+Pokemon Dungeon Explorers Of X Tools: https://github.com/pleonex/PokemonDungeonExplorers
+
+MetalBubble: https://github.com/pleonex/MetalBubble
+
+MetalMaxPreviewer: https://github.com/pleonex/MetalMaxPreviewer
+
+modime: https://github.com/pleonex/modime
+
+BiTexer: https://github.com/pleonex/BiTexer
+
+ndspy: https://github.com/RoadrunnerWMC/ndspy
+
+Newer-DS-Credits-Editor: https://github.com/RoadrunnerWMC/Newer-DS-Credits-Editor
+
+SSEQ Ahead: https://github.com/RoadrunnerWMC/sseq-ahead
+
+JUSToolkit: https://github.com/priverop/JUSToolkit
+
+MetalMaxImageTool: https://github.com/priverop/metalmaximagetool
+
+LA-Tools: https://github.com/priverop/LA-Tools
+
+FNT-Tool: https://github.com/RoadrunnerWMC/FNT-Tool
 
 Jay-San's Pokemon DS Rom Editing Tutorials Programs Pack: http://www.mediafire.com/file/0j68s3a3xgnn31y/DS_Video_tools.zip/file
 # Documentation/References:
@@ -152,6 +182,10 @@ GNU Assembler Guide: https://sourceware.org/binutils/docs/as/index.html
 Pokemon DS Known Sprite Locations: https://docs.google.com/document/d/19KqqKlrEAazRrwHv_c5IIAwGNp4KTtKW5BvSXdDzDKA/edit?usp=sharing
 
 Kuribo64 SM64DS Hacking Getting Started Links Thread: http://kuribo64.net/board/thread.php?id=2319
+
+Nitrap: https://github.com/pleonex/nitrap
+
+SADL Audio Format: https://github.com/pleonex/SADL-Audio-format
 # Wikis:
 SM64DS Romhacking/Machinima Wiki: https://sm64dsromhacking.miraheze.org/wiki/Main_Page
 
