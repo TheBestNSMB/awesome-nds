@@ -42,6 +42,8 @@ DeSmuME: http://desmume.org
 NO$GBA: https://www.nogba.com
 
 MelonDS: http://melonds.kuribo64.net
+
+MelonDS Android Port: https://github.com/rafaelvcaetano/melonDS-android
 # Romhacking Programs:
 SM64DSe: https://github.com/Arisotura/SM64DSe
 
