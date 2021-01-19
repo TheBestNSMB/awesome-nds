@@ -117,6 +117,8 @@ NitroDebugger: https://github.com/pleonex/NitroDebugger
 
 NitroFilcher: https://github.com/pleonex/NitroFilcher
 
+SADLpy: https://github.com/C3RV1/SADLpy
+
 Jay-San's Pokemon DS Rom Editing Tutorials Programs Pack: http://www.mediafire.com/file/0j68s3a3xgnn31y/DS_Video_tools.zip/file
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
@@ -144,6 +146,8 @@ Marker Man Adventures Documentation: https://docs.google.com/document/d/1_PeHMfV
 SM64DS CLPS Documentation: https://docs.google.com/document/d/11tHJ77km4EPITucU9RMdhW5ImPEvCyxPxUAbxqzm6Ks/edit
 
 Overblade's ASM Hacking Tutorial: https://overblade.github.io/HackingTutorial/
+
+GNU Assembler Guide: https://sourceware.org/binutils/docs/as/index.html
 
 Pokemon DS Known Sprite Locations: https://docs.google.com/document/d/19KqqKlrEAazRrwHv_c5IIAwGNp4KTtKW5BvSXdDzDKA/edit?usp=sharing
 
