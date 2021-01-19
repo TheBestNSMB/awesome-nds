@@ -149,6 +149,16 @@ LA-Tools: https://github.com/priverop/LA-Tools
 
 FNT-Tool: https://github.com/RoadrunnerWMC/FNT-Tool
 
+DSPatch: https://github.com/Gericom/dspatch
+
+LocalMapGen: https://github.com/Gericom/LocalMapGen
+
+Mobiclip Decoder: https://github.com/Gericom/MobiclipDecoder
+
+Every File Explorer: https://github.com/Gericom/EveryFileExplorer
+
+ISNitroEthernetConverter: https://github.com/Gericom/ISNitroEthernetConverter
+
 Jay-San's Pokemon DS Rom Editing Tutorials Programs Pack: http://www.mediafire.com/file/0j68s3a3xgnn31y/DS_Video_tools.zip/file
 # Documentation/References:
 ARM Assembly Guide/Reference: https://www.keil.com/support/man/docs/armasm/armasm_deb1353593789871.htm
