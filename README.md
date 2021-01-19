@@ -121,8 +121,6 @@ NitroDebugger: https://github.com/pleonex/NitroDebugger
 
 NitroFilcher: https://github.com/pleonex/NitroFilcher
 
-SADLpy: https://github.com/C3RV1/SADLpy
-
 Pokemon Conquest Translation Tools: https://github.com/pleonex/PokemonConquest
 
 Pokemon Dungeon Explorers Of X Tools: https://github.com/pleonex/PokemonDungeonExplorers
@@ -134,8 +132,6 @@ MetalMaxPreviewer: https://github.com/pleonex/MetalMaxPreviewer
 modime: https://github.com/pleonex/modime
 
 BiTexer: https://github.com/pleonex/BiTexer
-
-ndspy: https://github.com/RoadrunnerWMC/ndspy
 
 Newer-DS-Credits-Editor: https://github.com/RoadrunnerWMC/Newer-DS-Credits-Editor
 
@@ -212,6 +208,8 @@ How To Pack A NARC: https://docs.google.com/document/d/1nyuRlun9Gm_5lWodBVLZgOwT
 MKDS Object List: https://docs.google.com/document/d/1dBiPlhop77EiAmR1xHI1jWzz1vDQTE_Ul7ERTZFBi_A/edit?usp=drivesdk
 # Libraries:
 NDSpy: https://github.com/RoadrunnerWMC/ndspy
+
+SADLpy: https://github.com/C3RV1/SADLpy
 # Other:
 ToxInput: https://github.com/pants64DS/ToxInput
 
