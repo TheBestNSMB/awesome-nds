@@ -59,8 +59,6 @@ Szymbar's NSMBe Fork: https://github.com/szymbar15/NSMB-Editor
 
 Nitro Studio 2: https://github.com/Gota7/NitroStudio2
 
-Fireflower (ASM Patching Toolchain): https://github.com/Overblade/Fireflower
-
 NDS Decomp Project Maker: https://github.com/Ed-1T/NDS-Decompilation-Project-Maker
 
 Ghidra Symbols Exporter: https://github.com/Ed-1T/Ghidra-Symbols-Exporter
@@ -167,7 +165,7 @@ FreePascal's DS Compiler Documentation: https://wiki.freepascal.org/Nintendo_DS
 
 SM64DS ASM Reference: https://github.com/Overblade/SM64DS-ASMReference
 
-NSMB ASM Reference: https://github.com/Overblade/NSMB-ASMReference
+NSMB ASM Reference: https://github.com/TheGameratorT/NSMB-ASMReference
 
 999 ASM Reference: https://github.com/Ed-1T/999-ASM-Reference
 
@@ -180,8 +178,6 @@ List Of DS Games With Editable Formats: https://docs.google.com/spreadsheets/d/1
 Marker Man Adventures Documentation: https://docs.google.com/document/d/1_PeHMfVkhVIx36_NaUhR5dpXOjMwm4_q4x3giCHiftQ/edit?usp=sharing
 
 SM64DS CLPS Documentation: https://docs.google.com/document/d/11tHJ77km4EPITucU9RMdhW5ImPEvCyxPxUAbxqzm6Ks/edit
-
-Overblade's ASM Hacking Tutorial: https://overblade.github.io/HackingTutorial/
 
 GNU Assembler Guide: https://sourceware.org/binutils/docs/as/index.html
 
