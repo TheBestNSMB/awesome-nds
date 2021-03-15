@@ -31,7 +31,7 @@ NDS(i)Brew Scene: https://discord.gg/Ymj3Kex
 
 DS(i) Mode Hacking: https://discord.gg/yD3spjv
 
-M&M's Games Hacking Server (Includes many DS games so it's included here): https://discord.gg/CcBmxQP
+Misc. Games Modding Server (Has many DS games): https://discord.gg/CcBmxQP
 
 Blue Shell (NSMB Level Editor) Server: https://discord.gg/YEbt58T6M7
 
