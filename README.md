@@ -63,7 +63,7 @@ NDS Decomp Project Maker: https://github.com/Ed-1T/NDS-Decompilation-Project-Mak
 
 Ghidra Symbols Exporter: https://github.com/Ed-1T/Ghidra-Symbols-Exporter
 
-SPA Editor: https://github.com/Ed-1T/SimpleParticleArchive-Editor
+SPA Editor: https://github.com/Overblade/sparc
 
 NDS File Browser: https://github.com/bbomb64/ndsfilebrowser
 
@@ -108,6 +108,8 @@ Kiwi.ds: https://sites.google.com/site/kiwids/
 Xdelta: https://github.com/dan0v/xdelta3-cross-gui
 
 NerdFontTerminatoR: https://github.com/pleonex/NerdFontTerminatoR
+
+FireFlower: https://github.com/Overblade/Fireflower
 
 NinoImager: https://github.com/pleonex/ninoimager
 
